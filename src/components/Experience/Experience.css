@@ -1,0 +1,22 @@
+.experience-title{
+    font-family: "Gumela";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+
+.percentage {
+    display: block;
+    height: 100%;
+    background-color: #facc15;
+    border-radius: 5px;
+    animation: progress 1500ms ease-in 1;
+}
+/* Animating the progress bar by
+initially starting from 0*/
+@keyframes progress {
+    from {
+        width: 0;
+    }
+}
+

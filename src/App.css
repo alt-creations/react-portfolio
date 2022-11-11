@@ -1,0 +1,16 @@
+.section-title{
+  font-family: "Gumela";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+@media screen and (max-width: 932px) {
+
+  .section-title{
+    font-family: "Gumela";
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+
+}
